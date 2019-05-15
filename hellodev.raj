@@ -1,0 +1,3 @@
+
+create table employee (empid int, empname varchare(20) , empsalary mpney) 
+		values (11,'Tulasi', 57000)
